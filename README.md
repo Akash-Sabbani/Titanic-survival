@@ -44,3 +44,6 @@ pip install -r requirements.txt
 
 3.**Run the Streamlit app**:
 streamlit run app.py
+
+APP LINK
+https://titanic-survivals-predictor.streamlit.app/
